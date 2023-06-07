@@ -7,15 +7,6 @@
 
 
 
-
-This project was built using these technologies.
-
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-
 ## Getting Started
 
 Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
