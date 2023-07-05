@@ -18,7 +18,7 @@ function AboutCard() {
             <b className="purple"> third year  </b>
             student pursuing a Bachelor's degree in Computer Science at <b className="purple"> Carleton University  </b>
             <br />
-            Additionally, I am currently employed as co-op student at RealIT
+            Additionally, I am currently employed as co-op student at RealIT Management Inc
             <br />
             <br />
             Apart from programming, some other activities that I love to do!
